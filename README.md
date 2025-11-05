@@ -1,10 +1,11 @@
 # Hey, I'm Naveeth 👋
 
-**Data Engineer** building scalable data pipelines and streaming architectures.
+**Data Engineer** passionate about building **real-time streaming** and **AI-powered data platforms** that scale.
 
-4+ years turning messy data into insights | Currently co-founding **Zutual** (AI-powered life tracking) | Previously at **Kovai.co** building data infrastructure for Document360.
+With 4+ years of experience, I love turning messy, fast-moving data into reliable systems and actionable insights.  
+Currently **co-founding Zutual AI** (AI-powered life tracking) and previously at **Kovai.co**, where I built a large-scale data infrastructure for *Document360*.
 
-I enjoy working with: **Apache Spark**, **Kafka**, **Airflow**, **DBT**, **AWS**, and **real-time streaming systems**.
+I enjoy working with: **Apache Spark**, **Kafka**, **Airflow**, **DBT**, **AWS**, and exploring the intersection of **AI and modern data engineering**.
 
 ---
 
