@@ -2,7 +2,8 @@
 
 **Data Engineer** passionate about building **real-time streaming** and **AI-powered data platforms** that scale.
 
-With 4+ years of experience, I love turning messy, fast-moving data into reliable systems and actionable insights.  
+With 4+ years of experience, I love turning raw, chaotic data into reliable pipelines and actionable insights. Turning streaming data chaos into clarity - one pipeline at a time. 
+
 Currently **co-founding Zutual AI** (AI-powered life tracking) and previously at **Kovai.co**, where I built a large-scale data infrastructure for *Document360*.
 
 I enjoy working with: **Apache Spark**, **Kafka**, **Airflow**, **DBT**, **AWS**, and exploring the intersection of **AI and modern data engineering**.
